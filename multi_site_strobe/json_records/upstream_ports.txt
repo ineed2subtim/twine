@@ -1,0 +1,238 @@
+
+
+AMST_records.json
+        "Labels": "{\"ipv4\": \"10.137.128.142\", \"ipv6\": \"2602:fcfb:13:1024::e\", \"local_name\": \"HundredGigE0/0/0/23.2030\", \"mac\": \"d4:66:24:0b:82:60\"}",
+        "Labels": "{\"ipv4\": \"10.143.0.138\", \"ipv6\": \"2602:fcfb:1d:1024::a\", \"local_name\": \"HundredGigE0/0/0/23.2060\", \"mac\": \"d4:66:24:0b:82:60\"}",
+        "Labels": "{\"ipv4\": \"10.144.0.134\", \"ipv6\": \"2602:fcfb:1e:1024::6\", \"local_name\": \"HundredGigE0/0/0/23.3250\", \"mac\": \"d4:66:24:0b:82:60\"}",
+
+
+ATLA_records.json
+        "Labels": "{\"ipv4\": \"10.129.128.162\", \"ipv6\": \"2602:fcfb:3:1024::22\", \"local_name\": \"HundredGigE0/0/0/22.3000\", \"mac\": \"bc:2c:e6:df:27:5c\"}",
+        "Labels": "{\"ipv4\": \"10.133.0.142\", \"ipv6\": \"2602:fcfb:a:1024::e\", \"local_name\": \"Bundle-Ether100.3000\", \"mac\": \"bc:2c:e6:df:27:85\"}",
+        "Labels": "{\"ipv4\": \"10.133.128.134\", \"ipv6\": \"2602:fcfb:b:1024::6\", \"local_name\": \"Bundle-Ether101.3000\", \"mac\": \"bc:2c:e6:df:27:84\"}",
+
+
+BRIST_records.json
+        "Labels": "{\"ipv4\": \"10.137.128.154\", \"ipv6\": \"2602:fcfb:13:1024::1a\", \"local_name\": \"TenGigE0/0/0/22/0.3260\", \"mac\": \"d4:66:24:3c:69:5c\"}",
+        "Labels": "{\"ipv4\": \"10.144.0.133\", \"ipv6\": \"2602:fcfb:1e:1024::5\", \"local_name\": \"TenGigE0/0/0/22/0.3250\", \"mac\": \"d4:66:24:3c:69:5c\"}",
+
+
+CERN_records.json
+        "Labels": "{\"ipv4\": \"10.133.0.186\", \"ipv6\": \"2602:fcfb:a:1024::3a\", \"local_name\": \"HundredGigE0/0/0/27.3731\", \"mac\": \"7c:f8:80:ff:da:70\"}",
+        "Labels": "{\"ipv4\": \"10.143.0.137\", \"ipv6\": \"2602:fcfb:1d:1024::9\", \"local_name\": \"Bundle-Ether100.2060\", \"mac\": \"7c:f8:80:ff:da:85\"}",
+
+
+CLEM_records.json
+        "Labels": "{\"ipv4\": \"10.133.0.174\", \"ipv6\": \"2602:fcfb:a:1024::2e\", \"local_name\": \"HundredGigE0/0/0/22.3020\", \"mac\": \"7c:f8:80:4e:89:5c\"}",
+
+
+DALL_records.json
+        "Labels": "{\"ipv4\": \"10.130.128.158\", \"ipv6\": \"2602:fcfb:5:1024::1e\", \"local_name\": \"HundredGigE0/0/0/15.3180\", \"mac\": \"7c:f8:80:4e:8e:40\"}",
+        "Labels": "{\"ipv4\": \"10.133.128.129\", \"ipv6\": \"2602:fcfb:b:1024::1\", \"local_name\": \"HundredGigE0/0/0/19.3000\", \"mac\": \"7c:f8:80:4e:8e:50\"}",
+        "Labels": "{\"ipv4\": \"10.129.128.154\", \"ipv6\": \"2602:fcfb:3:1024::1a\", \"local_name\": \"HundredGigE0/0/0/23.3000\", \"mac\": \"7c:f8:80:4e:8e:60\"}",
+        "Labels": "{\"ipv4\": \"10.133.128.129\", \"ipv6\": \"2602:fcfb:b:1024::1\", \"local_name\": \"HundredGigE0/0/0/19.3000\", \"mac\": \"7c:f8:80:4e:8e:50\"}",
+        "Labels": "{\"ipv4\": \"10.130.128.158\", \"ipv6\": \"2602:fcfb:5:1024::1e\", \"local_name\": \"HundredGigE0/0/0/15.3180\", \"mac\": \"7c:f8:80:4e:8e:40\"}",
+        "Labels": "{\"ipv4\": \"10.129.128.154\", \"ipv6\": \"2602:fcfb:3:1024::1a\", \"local_name\": \"HundredGigE0/0/0/23.3000\", \"mac\": \"7c:f8:80:4e:8e:60\"}",
+        "Labels": "{\"ipv4\": \"10.130.128.158\", \"ipv6\": \"2602:fcfb:5:1024::1e\", \"local_name\": \"HundredGigE0/0/0/15.3180\", \"mac\": \"7c:f8:80:4e:8e:40\"}",
+        "Labels": "{\"ipv4\": \"10.133.128.129\", \"ipv6\": \"2602:fcfb:b:1024::1\", \"local_name\": \"HundredGigE0/0/0/19.3000\", \"mac\": \"7c:f8:80:4e:8e:50\"}",
+        "Labels": "{\"ipv4\": \"10.129.128.154\", \"ipv6\": \"2602:fcfb:3:1024::1a\", \"local_name\": \"HundredGigE0/0/0/23.3000\", \"mac\": \"7c:f8:80:4e:8e:60\"}",
+        "Labels": "{\"ipv4\": \"10.133.128.137\", \"ipv6\": \"2602:fcfb:b:1024::9\", \"local_name\": \"HundredGigE0/0/0/21.3000\", \"mac\": \"7c:f8:80:4e:8e:58\"}",
+        "Labels": "{\"ipv4\": \"10.130.128.158\", \"ipv6\": \"2602:fcfb:5:1024::1e\", \"local_name\": \"HundredGigE0/0/0/15.3180\", \"mac\": \"7c:f8:80:4e:8e:40\"}",
+        "Labels": "{\"ipv4\": \"10.133.128.141\", \"ipv6\": \"2602:fcfb:b:1024::d\", \"local_name\": \"Bundle-Ether101.3000\", \"mac\": \"7c:f8:80:4e:8e:84\"}",
+        "Labels": "{\"ipv4\": \"10.133.128.133\", \"ipv6\": \"2602:fcfb:b:1024::5\", \"local_name\": \"Bundle-Ether100.3000\", \"mac\": \"7c:f8:80:4e:8e:85\"}",
+
+
+FIU_records.json
+        "Labels": "{\"ipv4\": \"10.133.0.178\", \"ipv6\": \"2602:fcfb:a:1024::32\", \"local_name\": \"HundredGigE0/0/0/23.130\", \"mac\": \"7c:f8:80:4e:88:60\"}",
+
+
+GATECH_records.json
+        "Labels": "{\"ipv4\": \"10.133.0.190\", \"ipv6\": \"2602:fcfb:a:1024::3e\", \"local_name\": \"TenGigE0/0/0/20/0.3401\", \"mac\": \"7c:f8:80:4e:7a:54\"}",
+
+
+GPN_records.json
+        "Labels": "{\"ipv4\": \"10.132.0.158\", \"ipv6\": \"2602:fcfb:8:1024::1e\", \"local_name\": \"HundredGigE0/0/0/23.3800\", \"mac\": \"7c:f8:80:78:3e:60\"}",
+
+
+HAWI_records.json
+        "Labels": "{\"ipv4\": \"10.137.0.158\", \"ipv6\": \"2602:fcfb:12:1024::1e\", \"local_name\": \"HundredGigE0/0/0/23.3390\", \"mac\": \"c0:8b:2a:6e:e3:60\"}",
+        "Labels": "{\"ipv4\": \"10.139.0.142\", \"ipv6\": \"2602:fcfb:16:1024::e\", \"local_name\": \"HundredGigE0/0/0/23.3380\", \"mac\": \"c0:8b:2a:6e:e3:60\"}",
+
+
+INDI_records.json
+        "Labels": "{\"ipv4\": \"10.129.128.174\", \"ipv6\": \"2602:fcfb:3:1024::2e\", \"local_name\": \"HundredGigE0/0/0/23.3000\", \"mac\": \"bc:2c:e6:b2:fa:60\"}",
+
+
+KANS_records.json
+        "Labels": "{\"ipv4\": \"10.133.128.138\", \"ipv6\": \"2602:fcfb:b:1024::a\", \"local_name\": \"HundredGigE0/0/0/21.3000\", \"mac\": \"bc:2c:e6:b2:f6:58\"}",
+        "Labels": "{\"ipv4\": \"10.134.0.142\", \"ipv6\": \"2602:fcfb:c:1024::e\", \"local_name\": \"HundredGigE0/0/0/23.3000\", \"mac\": \"bc:2c:e6:b2:f6:60\"}",
+        "Labels": "{\"ipv4\": \"10.129.128.142\", \"ipv6\": \"2602:fcfb:3:1024::e\", \"local_name\": \"HundredGigE0/0/0/22.3000\", \"mac\": \"bc:2c:e6:b2:f6:5c\"}",
+
+
+LOSA_records.json
+        "Labels": "{\"ipv4\": \"10.137.0.133\", \"ipv6\": \"2602:fcfb:12:1024::5\", \"local_name\": \"HundredGigE0/0/0/23.3000\", \"mac\": \"c0:8b:2a:8a:ca:30\"}",
+        "Labels": "{\"ipv4\": \"10.133.128.142\", \"ipv6\": \"2602:fcfb:b:1024::e\", \"local_name\": \"Bundle-Ether101.3000\", \"mac\": \"c0:8b:2a:8a:cb:03\"}",
+        "Labels": "{\"ipv4\": \"10.137.0.161\", \"ipv6\": \"2602:fcfb:12:1024::21\", \"local_name\": \"HundredGigE0/0/0/15.3360\", \"mac\": \"c0:8b:2a:8a:ca:20\"}",
+        "Labels": "{\"ipv4\": \"10.137.0.153\", \"ipv6\": \"2602:fcfb:12:1024::19\", \"local_name\": \"HundredGigE0/0/0/15.3370\", \"mac\": \"c0:8b:2a:8a:ca:20\"}",
+        "Labels": "{\"ipv4\": \"10.134.128.134\", \"ipv6\": \"2602:fcfb:d:1024::6\", \"local_name\": \"HundredGigE0/0/0/17.3000\", \"mac\": \"c0:8b:2a:8a:ca:2a\"}",
+        "Labels": "{\"ipv4\": \"10.134.0.146\", \"ipv6\": \"2602:fcfb:c:1024::12\", \"local_name\": \"Bundle-Ether100.3000\", \"mac\": \"c0:8b:2a:8a:cb:04\"}",
+        "Labels": "{\"ipv4\": \"10.137.0.157\", \"ipv6\": \"2602:fcfb:12:1024::1d\", \"local_name\": \"HundredGigE0/0/0/15.3390\", \"mac\": \"c0:8b:2a:8a:ca:20\"}",
+
+
+MASS_records.json
+        "Labels": "{\"ipv4\": \"10.131.128.133\", \"ipv6\": \"2602:fcfb:7:1024::5\", \"local_name\": \"HundredGigE0/0/0/23.3101\", \"mac\": \"7c:f8:80:78:3d:60\"}",
+
+
+MAX_records.json
+        "Labels": "{\"ipv4\": \"10.130.0.145\", \"ipv6\": \"2602:fcfb:4:1024::11\", \"local_name\": \"HundredGigE0/0/0/22.2050\", \"mac\": \"b0:a6:51:13:a0:58\"}",
+        "Labels": "{\"ipv4\": \"10.130.0.145\", \"ipv6\": \"2602:fcfb:4:1024::11\", \"local_name\": \"HundredGigE0/0/0/22.2050\", \"mac\": \"7c:f8:80:4e:8c:5c\"}",
+
+
+MICH_records.json
+        "Labels": "{\"ipv4\": \"10.129.128.130\", \"ipv6\": \"2602:fcfb:3:1024::2\", \"local_name\": \"HundredGigE0/0/0/23.3000\", \"mac\": \"7c:f8:80:4e:8a:60\"}",
+
+
+NCSA_records.json
+        "Labels": "{\"ipv4\": \"10.129.128.146\", \"ipv6\": \"2602:fcfb:3:1024::12\", \"local_name\": \"HundredGigE0/0/0/23.3710\", \"mac\": \"7c:f8:80:4e:85:60\"}",
+        "Labels": "{\"ipv4\": \"10.129.128.134\", \"ipv6\": \"2602:fcfb:3:1024::6\", \"local_name\": \"HundredGigE0/0/0/22.3000\", \"mac\": \"7c:f8:80:4e:85:5c\"}",
+        "Labels": "{\"ipv4\": \"10.129.128.146\", \"ipv6\": \"2602:fcfb:3:1024::12\", \"local_name\": \"HundredGigE0/0/0/23.3710\", \"mac\": \"7c:f8:80:4e:85:60\"}",
+        "Labels": "{\"ipv4\": \"10.129.128.134\", \"ipv6\": \"2602:fcfb:3:1024::6\", \"local_name\": \"HundredGigE0/0/0/22.3000\", \"mac\": \"7c:f8:80:4e:85:5c\"}",
+        "Labels": "{\"ipv4\": \"10.129.128.146\", \"ipv6\": \"2602:fcfb:3:1024::12\", \"local_name\": \"HundredGigE0/0/0/23.3710\", \"mac\": \"7c:f8:80:4e:85:60\"}",
+
+
+NEWY_records.json
+        "Labels": "{\"ipv4\": \"10.137.128.141\", \"ipv6\": \"2602:fcfb:13:1024::d\", \"local_name\": \"HundredGigE0/0/0/18.2030\", \"mac\": \"c0:8b:2a:82:8c:26\"}",
+        "Labels": "{\"ipv4\": \"10.137.128.145\", \"ipv6\": \"2602:fcfb:13:1024::11\", \"local_name\": \"HundredGigE0/0/0/19.3000\", \"mac\": \"c0:8b:2a:82:8c:28\"}",
+        "Labels": "{\"ipv4\": \"10.137.128.153\", \"ipv6\": \"2602:fcfb:13:1024::19\", \"local_name\": \"HundredGigE0/0/0/18.3260\", \"mac\": \"c0:8b:2a:82:8c:26\"}",
+        "Labels": "{\"ipv4\": \"10.137.128.149\", \"ipv6\": \"2602:fcfb:13:1024::15\", \"local_name\": \"HundredGigE0/0/0/20.3000\", \"mac\": \"c0:8b:2a:82:8c:2c\"}",
+        "Labels": "{\"ipv4\": \"10.129.128.166\", \"ipv6\": \"2602:fcfb:3:1024::26\", \"local_name\": \"Bundle-Ether101.3001\", \"mac\": \"c0:8b:2a:82:8d:03\"}",
+        "Labels": "{\"ipv4\": \"10.133.0.138\", \"ipv6\": \"2602:fcfb:a:1024::a\", \"local_name\": \"Bundle-Ether100.3000\", \"mac\": \"c0:8b:2a:82:8d:04\"}",
+
+
+PRIN_records.json
+        "Labels": "{\"ipv4\": \"10.137.128.150\", \"ipv6\": \"2602:fcfb:13:1024::16\", \"local_name\": \"HundredGigE0/0/0/23.3000\", \"mac\": \"bc:2c:e6:b3:d1:60\"}",
+
+
+PSC_records.json
+        "Labels": "{\"ipv4\": \"10.133.0.194\", \"ipv6\": \"2602:fcfb:a:1024::42\", \"local_name\": \"HundredGigE0/0/0/22.4061\", \"mac\": \"bc:2c:e6:b3:df:5c\"}",
+
+
+RUTG_records.json
+        "Labels": "{\"ipv4\": \"10.137.128.146\", \"ipv6\": \"2602:fcfb:13:1024::12\", \"local_name\": \"HundredGigE0/0/0/23.3000\", \"mac\": \"bc:2c:e6:b3:d7:60\"}",
+
+
+SALT_records.json
+        "Labels": "{\"ipv4\": \"10.132.0.130\", \"ipv6\": \"2602:fcfb:8:1024::2\", \"local_name\": \"HundredGigE0/0/0/19.3000\", \"mac\": \"d4:66:24:3c:68:50\"}",
+        "Labels": "{\"ipv4\": \"10.129.128.158\", \"ipv6\": \"2602:fcfb:3:1024::1e\", \"local_name\": \"HundredGigE0/0/0/23.3000\", \"mac\": \"d4:66:24:3c:68:60\"}",
+        "Labels": "{\"ipv4\": \"10.133.128.130\", \"ipv6\": \"2602:fcfb:b:1024::2\", \"local_name\": \"HundredGigE0/0/0/22.3000\", \"mac\": \"d4:66:24:3c:68:5c\"}",
+        "Labels": "{\"ipv4\": \"10.132.0.130\", \"ipv6\": \"2602:fcfb:8:1024::2\", \"local_name\": \"HundredGigE0/0/0/19.3000\", \"mac\": \"d4:66:24:3c:68:50\"}",
+        "Labels": "{\"ipv4\": \"10.133.128.130\", \"ipv6\": \"2602:fcfb:b:1024::2\", \"local_name\": \"HundredGigE0/0/0/22.3000\", \"mac\": \"d4:66:24:3c:68:5c\"}",
+        "Labels": "{\"ipv4\": \"10.129.128.158\", \"ipv6\": \"2602:fcfb:3:1024::1e\", \"local_name\": \"HundredGigE0/0/0/23.3000\", \"mac\": \"d4:66:24:3c:68:60\"}",
+        "Labels": "{\"ipv4\": \"10.133.128.130\", \"ipv6\": \"2602:fcfb:b:1024::2\", \"local_name\": \"HundredGigE0/0/0/22.3000\", \"mac\": \"d4:66:24:3c:68:5c\"}",
+        "Labels": "{\"ipv4\": \"10.132.0.130\", \"ipv6\": \"2602:fcfb:8:1024::2\", \"local_name\": \"HundredGigE0/0/0/19.3000\", \"mac\": \"d4:66:24:3c:68:50\"}",
+        "Labels": "{\"ipv4\": \"10.134.0.145\", \"ipv6\": \"2602:fcfb:c:1024::11\", \"local_name\": \"Bundle-Ether100.3000\", \"mac\": \"d4:66:24:3c:68:85\"}",
+        "Labels": "{\"ipv4\": \"10.129.128.170\", \"ipv6\": \"2602:fcfb:3:1024::2a\", \"local_name\": \"Bundle-Ether101.3001\", \"mac\": \"d4:66:24:3c:68:84\"}",
+        "Labels": "{\"ipv4\": \"10.134.0.141\", \"ipv6\": \"2602:fcfb:c:1024::d\", \"local_name\": \"HundredGigE0/0/0/17.3000\", \"mac\": \"d4:66:24:3c:68:48\"}",
+        "Labels": "{\"ipv4\": \"10.134.0.137\", \"ipv6\": \"2602:fcfb:c:1024::9\", \"local_name\": \"HundredGigE0/0/0/21.3000\", \"mac\": \"d4:66:24:3c:68:58\"}",
+
+
+SEAT_records.json
+        "Labels": "{\"ipv4\": \"10.139.0.145\", \"ipv6\": \"2602:fcfb:16:1024::11\", \"local_name\": \"HundredGigE0/0/0/19.1491\", \"mac\": \"bc:2c:e6:b3:0e:50\"}",
+        "Labels": "{\"ipv4\": \"10.134.0.138\", \"ipv6\": \"2602:fcfb:c:1024::a\", \"local_name\": \"HundredGigE0/0/0/23.3000\", \"mac\": \"bc:2c:e6:b3:0e:60\"}",
+        "Labels": "{\"ipv4\": \"10.137.0.134\", \"ipv6\": \"2602:fcfb:12:1024::6\", \"local_name\": \"HundredGigE0/0/0/22.3000\", \"mac\": \"bc:2c:e6:b3:0e:5c\"}",
+        "Labels": "{\"ipv4\": \"10.139.0.141\", \"ipv6\": \"2602:fcfb:16:1024::d\", \"local_name\": \"HundredGigE0/0/0/19.3380\", \"mac\": \"bc:2c:e6:b3:0e:50\"}",
+
+
+SRI_records.json
+        "Labels": "{\"ipv4\": \"10.137.0.154\", \"ipv6\": \"2602:fcfb:12:1024::1a\", \"local_name\": \"TenGigE0/0/0/22/0.3370\", \"mac\": \"bc:2c:e6:b3:05:5c\"}",
+
+
+STAR_records.json
+        "Labels": "{\"ipv4\": \"10.129.128.153\", \"ipv6\": \"2602:fcfb:3:1024::19\", \"local_name\": \"HundredGigE0/0/0/34.3000\", \"mac\": \"b0:a6:51:e2:44:88\"}",
+        "Labels": "{\"ipv4\": \"10.129.128.149\", \"ipv6\": \"2602:fcfb:3:1024::15\", \"local_name\": \"HundredGigE0/0/0/35.3000\", \"mac\": \"b0:a6:51:e2:44:8c\"}",
+        "Labels": "{\"ipv4\": \"10.129.128.133\", \"ipv6\": \"2602:fcfb:3:1024::5\", \"local_name\": \"HundredGigE0/0/0/31.3000\", \"mac\": \"b0:a6:51:e2:44:7c\"}",
+        "Labels": "{\"ipv4\": \"10.129.128.157\", \"ipv6\": \"2602:fcfb:3:1024::1d\", \"local_name\": \"HundredGigE0/0/0/33.3000\", \"mac\": \"b0:a6:51:e2:44:84\"}",
+        "Labels": "{\"ipv4\": \"10.129.128.145\", \"ipv6\": \"2602:fcfb:3:1024::11\", \"local_name\": \"HundredGigE0/0/0/30.3710\", \"mac\": \"b0:a6:51:e2:44:78\"}",
+        "Labels": "{\"ipv4\": \"10.129.128.129\", \"ipv6\": \"2602:fcfb:3:1024::1\", \"local_name\": \"HundredGigE0/0/0/32.3000\", \"mac\": \"b0:a6:51:e2:44:80\"}",
+        "Labels": "{\"ipv4\": \"10.129.128.133\", \"ipv6\": \"2602:fcfb:3:1024::5\", \"local_name\": \"HundredGigE0/0/0/31.3000\", \"mac\": \"b0:a6:51:e2:44:7c\"}",
+        "Labels": "{\"ipv4\": \"10.129.128.149\", \"ipv6\": \"2602:fcfb:3:1024::15\", \"local_name\": \"HundredGigE0/0/0/35.3000\", \"mac\": \"b0:a6:51:e2:44:8c\"}",
+        "Labels": "{\"ipv4\": \"10.129.128.157\", \"ipv6\": \"2602:fcfb:3:1024::1d\", \"local_name\": \"HundredGigE0/0/0/33.3000\", \"mac\": \"b0:a6:51:e2:44:84\"}",
+        "Labels": "{\"ipv4\": \"10.129.128.145\", \"ipv6\": \"2602:fcfb:3:1024::11\", \"local_name\": \"HundredGigE0/0/0/30.3710\", \"mac\": \"b0:a6:51:e2:44:78\"}",
+        "Labels": "{\"ipv4\": \"10.129.128.129\", \"ipv6\": \"2602:fcfb:3:1024::1\", \"local_name\": \"HundredGigE0/0/0/32.3000\", \"mac\": \"b0:a6:51:e2:44:80\"}",
+        "Labels": "{\"ipv4\": \"10.129.128.153\", \"ipv6\": \"2602:fcfb:3:1024::19\", \"local_name\": \"HundredGigE0/0/0/34.3000\", \"mac\": \"b0:a6:51:e2:44:88\"}",
+        "Labels": "{\"ipv4\": \"10.129.128.157\", \"ipv6\": \"2602:fcfb:3:1024::1d\", \"local_name\": \"HundredGigE0/0/0/33.3000\", \"mac\": \"b0:a6:51:e2:44:84\"}",
+        "Labels": "{\"ipv4\": \"10.129.128.133\", \"ipv6\": \"2602:fcfb:3:1024::5\", \"local_name\": \"HundredGigE0/0/0/31.3000\", \"mac\": \"b0:a6:51:e2:44:7c\"}",
+        "Labels": "{\"ipv4\": \"10.129.128.129\", \"ipv6\": \"2602:fcfb:3:1024::1\", \"local_name\": \"HundredGigE0/0/0/32.3000\", \"mac\": \"b0:a6:51:e2:44:80\"}",
+        "Labels": "{\"ipv4\": \"10.129.128.145\", \"ipv6\": \"2602:fcfb:3:1024::11\", \"local_name\": \"HundredGigE0/0/0/30.3710\", \"mac\": \"b0:a6:51:e2:44:78\"}",
+        "Labels": "{\"ipv4\": \"10.129.128.149\", \"ipv6\": \"2602:fcfb:3:1024::15\", \"local_name\": \"HundredGigE0/0/0/35.3000\", \"mac\": \"b0:a6:51:e2:44:8c\"}",
+        "Labels": "{\"ipv4\": \"10.129.128.153\", \"ipv6\": \"2602:fcfb:3:1024::19\", \"local_name\": \"HundredGigE0/0/0/34.3000\", \"mac\": \"b0:a6:51:e2:44:88\"}",
+        "Labels": "{\"ipv4\": \"10.129.128.129\", \"ipv6\": \"2602:fcfb:3:1024::1\", \"local_name\": \"HundredGigE0/0/0/31.3000\", \"mac\": \"c0:8b:2a:82:6c:40\"}",
+        "Labels": "{\"ipv4\": \"10.129.128.173\", \"ipv6\": \"2602:fcfb:3:1024::2d\", \"local_name\": \"HundredGigE0/0/0/23.3000\", \"mac\": \"c0:8b:2a:82:6c:30\"}",
+        "Labels": "{\"ipv4\": \"10.129.128.145\", \"ipv6\": \"2602:fcfb:3:1024::11\", \"local_name\": \"HundredGigE0/0/0/30.3710\", \"mac\": \"c0:8b:2a:82:6c:3e\"}",
+        "Labels": "{\"ipv4\": \"10.129.128.165\", \"ipv6\": \"2602:fcfb:3:1024::25\", \"local_name\": \"Bundle-Ether101.3001\", \"mac\": \"c0:8b:2a:82:6d:03\"}",
+        "Labels": "{\"ipv4\": \"10.129.128.133\", \"ipv6\": \"2602:fcfb:3:1024::5\", \"local_name\": \"HundredGigE0/0/0/29.3000\", \"mac\": \"c0:8b:2a:82:6c:42\"}",
+        "Labels": "{\"ipv4\": \"10.129.128.141\", \"ipv6\": \"2602:fcfb:3:1024::d\", \"local_name\": \"HundredGigE0/0/0/24.3000\", \"mac\": \"c0:8b:2a:82:6c:34\"}",
+        "Labels": "{\"ipv4\": \"10.129.128.169\", \"ipv6\": \"2602:fcfb:3:1024::29\", \"local_name\": \"Bundle-Ether100.3001\", \"mac\": \"c0:8b:2a:82:6d:04\"}",
+        "Labels": "{\"ipv4\": \"10.129.128.161\", \"ipv6\": \"2602:fcfb:3:1024::21\", \"local_name\": \"HundredGigE0/0/0/25.3000\", \"mac\": \"c0:8b:2a:82:6c:3a\"}",
+        "Labels": "{\"ipv4\": \"10.129.128.149\", \"ipv6\": \"2602:fcfb:3:1024::15\", \"local_name\": \"HundredGigE0/0/0/27.3000\", \"mac\": \"c0:8b:2a:82:6c:38\"}",
+
+
+TACC_records.json
+        "Labels": "{\"ipv4\": \"10.130.128.157\", \"ipv6\": \"2602:fcfb:5:1024::1d\", \"local_name\": \"HundredGigE0/0/0/23.3180\", \"mac\": \"7c:f8:80:4e:49:60\"}",
+
+
+TOKY_records.json
+        "Labels": "{\"ipv4\": \"10.137.0.162\", \"ipv6\": \"2602:fcfb:12:1024::22\", \"local_name\": \"TenGigE0/0/0/18/0.2185\", \"mac\": \"d4:66:24:3c:5c:4c\"}",
+        "Labels": "{\"ipv4\": \"10.139.0.146\", \"ipv6\": \"2602:fcfb:16:1024::12\", \"local_name\": \"TenGigE0/0/0/18/0.2175\", \"mac\": \"d4:66:24:3c:5c:4c\"}",
+
+
+UCSD_records.json
+        "Labels": "{\"ipv4\": \"10.132.0.154\", \"ipv6\": \"2602:fcfb:8:1024::1a\", \"local_name\": \"HundredGigE0/0/0/22.3100\", \"mac\": \"7c:f8:80:8e:4d:5c\"}",
+        "Labels": "{\"ipv4\": \"10.134.128.133\", \"ipv6\": \"2602:fcfb:d:1024::5\", \"local_name\": \"HundredGigE0/0/0/21.3000\", \"mac\": \"7c:f8:80:8e:4d:58\"}",
+        "Labels": "{\"ipv4\": \"10.132.0.154\", \"ipv6\": \"2602:fcfb:8:1024::1a\", \"local_name\": \"FourHundredGigE0/0/0/26.3100\", \"mac\": \"7c:f8:80:8e:4d:6c\"}",
+
+
+UTAH_records.json
+        "Labels": "{\"ipv4\": \"10.132.0.153\", \"ipv6\": \"2602:fcfb:8:1024::19\", \"local_name\": \"HundredGigE0/0/0/22.2091\", \"mac\": \"b0:a6:51:13:98:58\"}",
+        "Labels": "{\"ipv4\": \"10.132.0.129\", \"ipv6\": \"2602:fcfb:8:1024::1\", \"local_name\": \"HundredGigE0/0/0/23.3000\", \"mac\": \"b0:a6:51:13:98:5c\"}",
+        "Labels": "{\"ipv4\": \"10.132.0.157\", \"ipv6\": \"2602:fcfb:8:1024::1d\", \"local_name\": \"HundredGigE0/0/0/22.2092\", \"mac\": \"b0:a6:51:13:98:58\"}",
+        "Labels": "{\"ipv4\": \"10.132.0.129\", \"ipv6\": \"2602:fcfb:8:1024::1\", \"local_name\": \"HundredGigE0/0/0/23.3000\", \"mac\": \"b0:a6:51:13:98:5c\"}",
+        "Labels": "{\"ipv4\": \"10.132.0.157\", \"ipv6\": \"2602:fcfb:8:1024::1d\", \"local_name\": \"HundredGigE0/0/0/22.2092\", \"mac\": \"b0:a6:51:13:98:58\"}",
+        "Labels": "{\"ipv4\": \"10.132.0.153\", \"ipv6\": \"2602:fcfb:8:1024::19\", \"local_name\": \"HundredGigE0/0/0/22.2091\", \"mac\": \"b0:a6:51:13:98:58\"}",
+        "Labels": "{\"ipv4\": \"10.132.0.157\", \"ipv6\": \"2602:fcfb:8:1024::1d\", \"local_name\": \"HundredGigE0/0/0/22.2092\", \"mac\": \"b0:a6:51:13:98:58\"}",
+        "Labels": "{\"ipv4\": \"10.132.0.129\", \"ipv6\": \"2602:fcfb:8:1024::1\", \"local_name\": \"HundredGigE0/0/0/23.3000\", \"mac\": \"b0:a6:51:13:98:5c\"}",
+        "Labels": "{\"ipv4\": \"10.132.0.157\", \"ipv6\": \"2602:fcfb:8:1024::1d\", \"local_name\": \"HundredGigE0/0/0/22.2092\", \"mac\": \"e8:5c:0a:9e:99:5c\"}",
+        "Labels": "{\"ipv4\": \"10.132.0.129\", \"ipv6\": \"2602:fcfb:8:1024::1\", \"local_name\": \"HundredGigE0/0/0/23.3000\", \"mac\": \"e8:5c:0a:9e:99:60\"}",
+        "Labels": "{\"ipv4\": \"10.132.0.153\", \"ipv6\": \"2602:fcfb:8:1024::19\", \"local_name\": \"HundredGigE0/0/0/22.2091\", \"mac\": \"e8:5c:0a:9e:99:5c\"}",
+
+
+WASH_records.json
+        "Labels": "{\"ipv4\": \"10.130.0.146\", \"ipv6\": \"2602:fcfb:4:1024::12\", \"local_name\": \"HundredGigE0/0/0/15.2050\", \"mac\": \"7c:f8:80:4e:8c:40\"}",
+        "Labels": "{\"ipv4\": \"10.131.128.134\", \"ipv6\": \"2602:fcfb:7:1024::6\", \"local_name\": \"HundredGigE0/0/0/15.3101\", \"mac\": \"7c:f8:80:4e:8c:40\"}",
+        "Labels": "{\"ipv4\": \"10.133.0.177\", \"ipv6\": \"2602:fcfb:a:1024::31\", \"local_name\": \"HundredGigE0/0/0/15.130\", \"mac\": \"7c:f8:80:4e:8c:40\"}",
+        "Labels": "{\"ipv4\": \"10.129.128.150\", \"ipv6\": \"2602:fcfb:3:1024::16\", \"local_name\": \"HundredGigE0/0/0/23.3000\", \"mac\": \"7c:f8:80:4e:8c:60\"}",
+        "Labels": "{\"ipv4\": \"10.133.0.185\", \"ipv6\": \"2602:fcfb:a:1024::39\", \"local_name\": \"HundredGigE0/0/0/19.3731\", \"mac\": \"7c:f8:80:4e:8c:50\"}",
+        "Labels": "{\"ipv4\": \"10.133.0.173\", \"ipv6\": \"2602:fcfb:a:1024::2d\", \"local_name\": \"HundredGigE0/0/0/15.3020\", \"mac\": \"7c:f8:80:4e:8c:40\"}",
+        "Labels": "{\"ipv4\": \"10.133.0.177\", \"ipv6\": \"2602:fcfb:a:1024::31\", \"local_name\": \"HundredGigE0/0/0/15.130\", \"mac\": \"7c:f8:80:4e:8c:40\"}",
+        "Labels": "{\"ipv4\": \"10.130.0.146\", \"ipv6\": \"2602:fcfb:4:1024::12\", \"local_name\": \"HundredGigE0/0/0/15.2050\", \"mac\": \"7c:f8:80:4e:8c:40\"}",
+        "Labels": "{\"ipv4\": \"10.133.0.173\", \"ipv6\": \"2602:fcfb:a:1024::2d\", \"local_name\": \"HundredGigE0/0/0/15.3020\", \"mac\": \"7c:f8:80:4e:8c:40\"}",
+        "Labels": "{\"ipv4\": \"10.133.0.185\", \"ipv6\": \"2602:fcfb:a:1024::39\", \"local_name\": \"HundredGigE0/0/0/19.3731\", \"mac\": \"7c:f8:80:4e:8c:50\"}",
+        "Labels": "{\"ipv4\": \"10.129.128.150\", \"ipv6\": \"2602:fcfb:3:1024::16\", \"local_name\": \"HundredGigE0/0/0/23.3000\", \"mac\": \"7c:f8:80:4e:8c:60\"}",
+        "Labels": "{\"ipv4\": \"10.131.128.134\", \"ipv6\": \"2602:fcfb:7:1024::6\", \"local_name\": \"HundredGigE0/0/0/15.3101\", \"mac\": \"7c:f8:80:4e:8c:40\"}",
+        "Labels": "{\"ipv4\": \"10.133.0.185\", \"ipv6\": \"2602:fcfb:a:1024::39\", \"local_name\": \"HundredGigE0/0/0/19.3731\", \"mac\": \"7c:f8:80:4e:8c:50\"}",
+        "Labels": "{\"ipv4\": \"10.130.0.146\", \"ipv6\": \"2602:fcfb:4:1024::12\", \"local_name\": \"HundredGigE0/0/0/15.2050\", \"mac\": \"7c:f8:80:4e:8c:40\"}",
+        "Labels": "{\"ipv4\": \"10.133.0.177\", \"ipv6\": \"2602:fcfb:a:1024::31\", \"local_name\": \"HundredGigE0/0/0/15.130\", \"mac\": \"7c:f8:80:4e:8c:40\"}",
+        "Labels": "{\"ipv4\": \"10.129.128.150\", \"ipv6\": \"2602:fcfb:3:1024::16\", \"local_name\": \"HundredGigE0/0/0/23.3000\", \"mac\": \"7c:f8:80:4e:8c:60\"}",
+        "Labels": "{\"ipv4\": \"10.133.0.173\", \"ipv6\": \"2602:fcfb:a:1024::2d\", \"local_name\": \"HundredGigE0/0/0/15.3020\", \"mac\": \"7c:f8:80:4e:8c:40\"}",
+        "Labels": "{\"ipv4\": \"10.131.128.134\", \"ipv6\": \"2602:fcfb:7:1024::6\", \"local_name\": \"HundredGigE0/0/0/15.3101\", \"mac\": \"7c:f8:80:4e:8c:40\"}",
+        "Labels": "{\"ipv4\": \"10.133.0.177\", \"ipv6\": \"2602:fcfb:a:1024::31\", \"local_name\": \"HundredGigE0/0/0/15.130\", \"mac\": \"c0:8b:2a:81:4c:20\"}",
+        "Labels": "{\"ipv4\": \"10.133.0.161\", \"ipv6\": \"2602:fcfb:a:1024::21\", \"local_name\": \"HundredGigE0/0/0/15.858\", \"mac\": \"c0:8b:2a:81:4c:20\"}",
+        "Labels": "{\"ipv4\": \"10.130.0.146\", \"ipv6\": \"2602:fcfb:4:1024::12\", \"local_name\": \"HundredGigE0/0/0/15.2050\", \"mac\": \"c0:8b:2a:81:4c:20\"}",
+        "Labels": "{\"ipv4\": \"10.133.0.173\", \"ipv6\": \"2602:fcfb:a:1024::2d\", \"local_name\": \"HundredGigE0/0/0/15.3020\", \"mac\": \"c0:8b:2a:81:4c:20\"}",
+        "Labels": "{\"ipv4\": \"10.133.0.141\", \"ipv6\": \"2602:fcfb:a:1024::d\", \"local_name\": \"Bundle-Ether101.3000\", \"mac\": \"c0:8b:2a:81:4d:03\"}",
+        "Labels": "{\"ipv4\": \"10.133.0.193\", \"ipv6\": \"2602:fcfb:a:1024::41\", \"local_name\": \"HundredGigE0/0/0/15.4061\", \"mac\": \"c0:8b:2a:81:4c:20\"}",
+        "Labels": "{\"ipv4\": \"10.131.128.134\", \"ipv6\": \"2602:fcfb:7:1024::6\", \"local_name\": \"HundredGigE0/0/0/15.3101\", \"mac\": \"c0:8b:2a:81:4c:20\"}",
+        "Labels": "{\"ipv4\": \"10.133.0.185\", \"ipv6\": \"2602:fcfb:a:1024::39\", \"local_name\": \"HundredGigE0/0/0/19.3731\", \"mac\": \"c0:8b:2a:81:4c:28\"}",
+        "Labels": "{\"ipv4\": \"10.133.0.189\", \"ipv6\": \"2602:fcfb:a:1024::3d\", \"local_name\": \"HundredGigE0/0/0/15.3401\", \"mac\": \"c0:8b:2a:81:4c:20\"}",
+        "Labels": "{\"ipv4\": \"10.129.128.150\", \"ipv6\": \"2602:fcfb:3:1024::16\", \"local_name\": \"HundredGigE0/0/0/23.3000\", \"mac\": \"c0:8b:2a:81:4c:30\"}",
+        "Labels": "{\"ipv4\": \"10.133.0.137\", \"ipv6\": \"2602:fcfb:a:1024::9\", \"local_name\": \"Bundle-Ether100.3000\", \"mac\": \"c0:8b:2a:81:4d:04\"}",

@@ -1,0 +1,7 @@
+#!/bin/bash
+
+PCAP_PID=$(ps -ef | grep pcap | awk '{print $2}' | head -1)
+kill -SIGINT $PCAP_PID
+
+mkdir /scratch/output
+cp /fabric_fpga_mirror/pcap_filter/build/pcap* /scratch/output

@@ -1,0 +1,5 @@
+#!/bin/bash
+
+cd /fabric_fpga_mirror/pcap_filter/build
+./filter-pcap -l 0-4 -n 4 -a $SN_PCIE_DEV.0 >pcap_run_log 2>&1 &
+

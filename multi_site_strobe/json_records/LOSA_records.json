@@ -1,0 +1,554 @@
+﻿[
+  {
+    "cp": {
+      "identity": 9572,
+      "labels": [
+        "ConnectionPoint",
+        "GraphNode"
+      ],
+      "properties": {
+        "LabelDelegations": "{\"609048fb-8416-463d-9f79-c3671cec197e\": {\"pool_id\": \"_\", \"labels\": {\"mac\": \"c0:8b:2a:8a:ca:1a\", \"local_name\": \"HundredGigE0/0/0/9\"}}}",
+        "Type": "TrunkPort",
+        "GraphID": "40df44eb-1e69-409b-9f46-c3a975338659",
+        "CapacityDelegations": "{\"609048fb-8416-463d-9f79-c3671cec197e\": {\"pool_id\": \"_\", \"capacities\": {\"bw\": 100}}}",
+        "StructuralInfo": "{\"adm_graph_ids\": [\"609048fb-8416-463d-9f79-c3671cec197e\", \"5a063c08-b582-4fbc-866c-bf71fd49f639\"]}",
+        "NodeID": "port+losa-data-sw:HundredGigE0/0/0/9",
+        "Class": "ConnectionPoint",
+        "Labels": "{\"local_name\": \"HundredGigE0/0/0/9\", \"mac\": \"c0:8b:2a:8a:ca:1a\"}",
+        "id": "480",
+        "Capacities": "{\"bw\": 100}",
+        "StitchNode": "false",
+        "Name": "HundredGigE0/0/0/9"
+      },
+      "elementId": "9572"
+    }
+  },
+  {
+    "cp": {
+      "identity": 9461,
+      "labels": [
+        "ConnectionPoint",
+        "GraphNode"
+      ],
+      "properties": {
+        "LabelDelegations": "{\"609048fb-8416-463d-9f79-c3671cec197e\": {\"pool_id\": \"_\", \"labels\": {\"mac\": \"c0:8b:2a:8a:ca:1e\", \"local_name\": \"HundredGigE0/0/0/14\"}}}",
+        "Type": "TrunkPort",
+        "GraphID": "40df44eb-1e69-409b-9f46-c3a975338659",
+        "CapacityDelegations": "{\"609048fb-8416-463d-9f79-c3671cec197e\": {\"pool_id\": \"_\", \"capacities\": {\"bw\": 100}}}",
+        "StructuralInfo": "{\"adm_graph_ids\": [\"609048fb-8416-463d-9f79-c3671cec197e\", \"5a063c08-b582-4fbc-866c-bf71fd49f639\"]}",
+        "NodeID": "port+losa-data-sw:HundredGigE0/0/0/14",
+        "Class": "ConnectionPoint",
+        "Labels": "{\"local_name\": \"HundredGigE0/0/0/14\", \"mac\": \"c0:8b:2a:8a:ca:1e\"}",
+        "id": "456",
+        "Capacities": "{\"bw\": 100}",
+        "StitchNode": "false",
+        "Name": "HundredGigE0/0/0/14"
+      },
+      "elementId": "9461"
+    }
+  },
+  {
+    "cp": {
+      "identity": 9570,
+      "labels": [
+        "ConnectionPoint",
+        "GraphNode"
+      ],
+      "properties": {
+        "LabelDelegations": "{\"609048fb-8416-463d-9f79-c3671cec197e\": {\"pool_id\": \"_\", \"labels\": {\"mac\": \"c0:8b:2a:8a:ca:0e\", \"local_name\": \"HundredGigE0/0/0/6\"}}}",
+        "Type": "TrunkPort",
+        "GraphID": "40df44eb-1e69-409b-9f46-c3a975338659",
+        "CapacityDelegations": "{\"609048fb-8416-463d-9f79-c3671cec197e\": {\"pool_id\": \"_\", \"capacities\": {\"bw\": 100}}}",
+        "StructuralInfo": "{\"adm_graph_ids\": [\"609048fb-8416-463d-9f79-c3671cec197e\", \"5a063c08-b582-4fbc-866c-bf71fd49f639\"]}",
+        "NodeID": "port+losa-data-sw:HundredGigE0/0/0/6",
+        "Class": "ConnectionPoint",
+        "Labels": "{\"local_name\": \"HundredGigE0/0/0/6\", \"mac\": \"c0:8b:2a:8a:ca:0e\"}",
+        "id": "478",
+        "Capacities": "{\"bw\": 100}",
+        "StitchNode": "false",
+        "Name": "HundredGigE0/0/0/6"
+      },
+      "elementId": "9570"
+    }
+  },
+  {
+    "cp": {
+      "identity": 9446,
+      "labels": [
+        "ConnectionPoint",
+        "GraphNode"
+      ],
+      "properties": {
+        "LabelDelegations": "{\"609048fb-8416-463d-9f79-c3671cec197e\": {\"pool_id\": \"_\", \"labels\": {\"mac\": \"c0:8b:2a:8a:ca:7c\", \"local_name\": \"FourHundredGigE0/0/0/60\"}}}",
+        "Type": "TrunkPort",
+        "GraphID": "40df44eb-1e69-409b-9f46-c3a975338659",
+        "CapacityDelegations": "{\"609048fb-8416-463d-9f79-c3671cec197e\": {\"pool_id\": \"_\", \"capacities\": {\"bw\": 400}}}",
+        "StructuralInfo": "{\"adm_graph_ids\": [\"609048fb-8416-463d-9f79-c3671cec197e\"]}",
+        "NodeID": "port+losa-data-sw:FourHundredGigE0/0/0/60",
+        "Class": "ConnectionPoint",
+        "Labels": "{\"local_name\": \"FourHundredGigE0/0/0/60\", \"mac\": \"c0:8b:2a:8a:ca:7c\"}",
+        "id": "449",
+        "Capacities": "{\"bw\": 400}",
+        "StitchNode": "false",
+        "Name": "FourHundredGigE0/0/0/60"
+      },
+      "elementId": "9446"
+    }
+  },
+  {
+    "cp": {
+      "identity": 9577,
+      "labels": [
+        "ConnectionPoint",
+        "GraphNode"
+      ],
+      "properties": {
+        "LabelDelegations": "{\"609048fb-8416-463d-9f79-c3671cec197e\": {\"pool_id\": \"_\", \"labels\": {\"mac\": \"c0:8b:2a:8a:ca:16\", \"local_name\": \"TwentyFiveGigE0/0/0/8/2\"}}}",
+        "Type": "TrunkPort",
+        "GraphID": "40df44eb-1e69-409b-9f46-c3a975338659",
+        "CapacityDelegations": "{\"609048fb-8416-463d-9f79-c3671cec197e\": {\"pool_id\": \"_\", \"capacities\": {\"bw\": 25}}}",
+        "StructuralInfo": "{\"adm_graph_ids\": [\"609048fb-8416-463d-9f79-c3671cec197e\", \"5a063c08-b582-4fbc-866c-bf71fd49f639\"]}",
+        "NodeID": "port+losa-data-sw:TwentyFiveGigE0/0/0/8/2",
+        "Class": "ConnectionPoint",
+        "Labels": "{\"local_name\": \"TwentyFiveGigE0/0/0/8/2\", \"mac\": \"c0:8b:2a:8a:ca:16\"}",
+        "id": "483",
+        "Capacities": "{\"bw\": 25}",
+        "StitchNode": "false",
+        "Name": "TwentyFiveGigE0/0/0/8/2"
+      },
+      "elementId": "9577"
+    }
+  },
+  {
+    "cp": {
+      "identity": 9578,
+      "labels": [
+        "ConnectionPoint",
+        "GraphNode"
+      ],
+      "properties": {
+        "LabelDelegations": "{\"609048fb-8416-463d-9f79-c3671cec197e\": {\"pool_id\": \"_\", \"labels\": {\"mac\": \"c0:8b:2a:8a:ca:17\", \"local_name\": \"TwentyFiveGigE0/0/0/8/3\"}}}",
+        "Type": "TrunkPort",
+        "GraphID": "40df44eb-1e69-409b-9f46-c3a975338659",
+        "CapacityDelegations": "{\"609048fb-8416-463d-9f79-c3671cec197e\": {\"pool_id\": \"_\", \"capacities\": {\"bw\": 25}}}",
+        "StructuralInfo": "{\"adm_graph_ids\": [\"609048fb-8416-463d-9f79-c3671cec197e\", \"5a063c08-b582-4fbc-866c-bf71fd49f639\"]}",
+        "NodeID": "port+losa-data-sw:TwentyFiveGigE0/0/0/8/3",
+        "Class": "ConnectionPoint",
+        "Labels": "{\"local_name\": \"TwentyFiveGigE0/0/0/8/3\", \"mac\": \"c0:8b:2a:8a:ca:17\"}",
+        "id": "484",
+        "Capacities": "{\"bw\": 25}",
+        "StitchNode": "false",
+        "Name": "TwentyFiveGigE0/0/0/8/3"
+      },
+      "elementId": "9578"
+    }
+  },
+  {
+    "cp": {
+      "identity": 9566,
+      "labels": [
+        "ConnectionPoint",
+        "GraphNode"
+      ],
+      "properties": {
+        "LabelDelegations": "{\"609048fb-8416-463d-9f79-c3671cec197e\": {\"pool_id\": \"_\", \"labels\": {\"mac\": \"c0:8b:2a:8a:ca:30\", \"ipv4\": \"10.137.0.133\", \"ipv6\": \"2602:fcfb:12:1024::5\", \"local_name\": \"HundredGigE0/0/0/23.3000\"}}}",
+        "Type": "TrunkPort",
+        "GraphID": "40df44eb-1e69-409b-9f46-c3a975338659",
+        "CapacityDelegations": "{\"609048fb-8416-463d-9f79-c3671cec197e\": {\"pool_id\": \"_\", \"capacities\": {\"bw\": 100}}}",
+        "StructuralInfo": "{\"adm_graph_ids\": [\"609048fb-8416-463d-9f79-c3671cec197e\"]}",
+        "NodeID": "port+losa-data-sw:HundredGigE0/0/0/23.3000",
+        "Class": "ConnectionPoint",
+        "Labels": "{\"ipv4\": \"10.137.0.133\", \"ipv6\": \"2602:fcfb:12:1024::5\", \"local_name\": \"HundredGigE0/0/0/23.3000\", \"mac\": \"c0:8b:2a:8a:ca:30\"}",
+        "id": "474",
+        "Capacities": "{\"bw\": 100}",
+        "StitchNode": "false",
+        "Name": "HundredGigE0/0/0/23.3000"
+      },
+      "elementId": "9566"
+    }
+  },
+  {
+    "cp": {
+      "identity": 9350,
+      "labels": [
+        "ConnectionPoint",
+        "GraphNode"
+      ],
+      "properties": {
+        "LabelDelegations": "{\"609048fb-8416-463d-9f79-c3671cec197e\": {\"pool_id\": \"_\", \"labels\": {\"mac\": \"c0:8b:2a:8a:cb:03\", \"ipv4\": \"10.133.128.142\", \"ipv6\": \"2602:fcfb:b:1024::e\", \"local_name\": \"Bundle-Ether101.3000\"}}}",
+        "Type": "TrunkPort",
+        "GraphID": "40df44eb-1e69-409b-9f46-c3a975338659",
+        "CapacityDelegations": "{\"609048fb-8416-463d-9f79-c3671cec197e\": {\"pool_id\": \"_\", \"capacities\": {\"bw\": 1200}}}",
+        "StructuralInfo": "{\"adm_graph_ids\": [\"609048fb-8416-463d-9f79-c3671cec197e\"]}",
+        "NodeID": "port+losa-data-sw:Bundle-Ether101.3000",
+        "Class": "ConnectionPoint",
+        "Labels": "{\"ipv4\": \"10.133.128.142\", \"ipv6\": \"2602:fcfb:b:1024::e\", \"local_name\": \"Bundle-Ether101.3000\", \"mac\": \"c0:8b:2a:8a:cb:03\"}",
+        "id": "440",
+        "Capacities": "{\"bw\": 1200}",
+        "StitchNode": "false",
+        "Name": "Bundle-Ether101.3000"
+      },
+      "elementId": "9350"
+    }
+  },
+  {
+    "cp": {
+      "identity": 9545,
+      "labels": [
+        "ConnectionPoint",
+        "GraphNode"
+      ],
+      "properties": {
+        "LabelDelegations": "{\"609048fb-8416-463d-9f79-c3671cec197e\": {\"pool_id\": \"_\", \"labels\": {\"mac\": \"c0:8b:2a:8a:ca:20\", \"ipv4\": \"10.137.0.161\", \"ipv6\": \"2602:fcfb:12:1024::21\", \"local_name\": \"HundredGigE0/0/0/15.3360\"}}}",
+        "Type": "TrunkPort",
+        "GraphID": "40df44eb-1e69-409b-9f46-c3a975338659",
+        "CapacityDelegations": "{\"609048fb-8416-463d-9f79-c3671cec197e\": {\"pool_id\": \"_\", \"capacities\": {\"bw\": 100}}}",
+        "StructuralInfo": "{\"adm_graph_ids\": [\"609048fb-8416-463d-9f79-c3671cec197e\"]}",
+        "NodeID": "port+losa-data-sw:HundredGigE0/0/0/15.3360",
+        "Class": "ConnectionPoint",
+        "Labels": "{\"ipv4\": \"10.137.0.161\", \"ipv6\": \"2602:fcfb:12:1024::21\", \"local_name\": \"HundredGigE0/0/0/15.3360\", \"mac\": \"c0:8b:2a:8a:ca:20\"}",
+        "id": "466",
+        "Capacities": "{\"bw\": 100}",
+        "StitchNode": "false",
+        "Name": "HundredGigE0/0/0/15.3360"
+      },
+      "elementId": "9545"
+    }
+  },
+  {
+    "cp": {
+      "identity": 9511,
+      "labels": [
+        "ConnectionPoint",
+        "GraphNode"
+      ],
+      "properties": {
+        "LabelDelegations": "{\"609048fb-8416-463d-9f79-c3671cec197e\": {\"pool_id\": \"_\", \"labels\": {\"mac\": \"c0:8b:2a:8a:ca:20\", \"local_name\": \"HundredGigE0/0/0/15\"}}}",
+        "Type": "TrunkPort",
+        "GraphID": "40df44eb-1e69-409b-9f46-c3a975338659",
+        "CapacityDelegations": "{\"609048fb-8416-463d-9f79-c3671cec197e\": {\"pool_id\": \"_\", \"capacities\": {\"bw\": 100}}}",
+        "StructuralInfo": "{\"adm_graph_ids\": [\"609048fb-8416-463d-9f79-c3671cec197e\"]}",
+        "NodeID": "port+losa-data-sw:HundredGigE0/0/0/15",
+        "Class": "ConnectionPoint",
+        "Labels": "{\"local_name\": \"HundredGigE0/0/0/15\", \"mac\": \"c0:8b:2a:8a:ca:20\"}",
+        "id": "457",
+        "Capacities": "{\"bw\": 100}",
+        "StitchNode": "false",
+        "Name": "HundredGigE0/0/0/15"
+      },
+      "elementId": "9511"
+    }
+  },
+  {
+    "cp": {
+      "identity": 9511,
+      "labels": [
+        "ConnectionPoint",
+        "GraphNode"
+      ],
+      "properties": {
+        "LabelDelegations": "{\"609048fb-8416-463d-9f79-c3671cec197e\": {\"pool_id\": \"_\", \"labels\": {\"mac\": \"c0:8b:2a:8a:ca:20\", \"local_name\": \"HundredGigE0/0/0/15\"}}}",
+        "Type": "TrunkPort",
+        "GraphID": "40df44eb-1e69-409b-9f46-c3a975338659",
+        "CapacityDelegations": "{\"609048fb-8416-463d-9f79-c3671cec197e\": {\"pool_id\": \"_\", \"capacities\": {\"bw\": 100}}}",
+        "StructuralInfo": "{\"adm_graph_ids\": [\"609048fb-8416-463d-9f79-c3671cec197e\"]}",
+        "NodeID": "port+losa-data-sw:HundredGigE0/0/0/15",
+        "Class": "ConnectionPoint",
+        "Labels": "{\"local_name\": \"HundredGigE0/0/0/15\", \"mac\": \"c0:8b:2a:8a:ca:20\"}",
+        "id": "457",
+        "Capacities": "{\"bw\": 100}",
+        "StitchNode": "false",
+        "Name": "HundredGigE0/0/0/15"
+      },
+      "elementId": "9511"
+    }
+  },
+  {
+    "cp": {
+      "identity": 9556,
+      "labels": [
+        "ConnectionPoint",
+        "GraphNode"
+      ],
+      "properties": {
+        "LabelDelegations": "{\"609048fb-8416-463d-9f79-c3671cec197e\": {\"pool_id\": \"_\", \"labels\": {\"mac\": \"c0:8b:2a:8a:ca:06\", \"local_name\": \"HundredGigE0/0/0/2\"}}}",
+        "Type": "TrunkPort",
+        "GraphID": "40df44eb-1e69-409b-9f46-c3a975338659",
+        "CapacityDelegations": "{\"609048fb-8416-463d-9f79-c3671cec197e\": {\"pool_id\": \"_\", \"capacities\": {\"bw\": 100}}}",
+        "StructuralInfo": "{\"adm_graph_ids\": [\"609048fb-8416-463d-9f79-c3671cec197e\", \"5a063c08-b582-4fbc-866c-bf71fd49f639\"]}",
+        "NodeID": "port+losa-data-sw:HundredGigE0/0/0/2",
+        "Class": "ConnectionPoint",
+        "Labels": "{\"local_name\": \"HundredGigE0/0/0/2\", \"mac\": \"c0:8b:2a:8a:ca:06\"}",
+        "id": "472",
+        "Capacities": "{\"bw\": 100}",
+        "StitchNode": "false",
+        "Name": "HundredGigE0/0/0/2"
+      },
+      "elementId": "9556"
+    }
+  },
+  {
+    "cp": {
+      "identity": 9573,
+      "labels": [
+        "ConnectionPoint",
+        "GraphNode"
+      ],
+      "properties": {
+        "LabelDelegations": "{\"609048fb-8416-463d-9f79-c3671cec197e\": {\"pool_id\": \"_\", \"labels\": {\"mac\": \"c0:8b:2a:8a:ca:14\", \"local_name\": \"TwentyFiveGigE0/0/0/8/0\"}}}",
+        "Type": "TrunkPort",
+        "GraphID": "40df44eb-1e69-409b-9f46-c3a975338659",
+        "CapacityDelegations": "{\"609048fb-8416-463d-9f79-c3671cec197e\": {\"pool_id\": \"_\", \"capacities\": {\"bw\": 25}}}",
+        "StructuralInfo": "{\"adm_graph_ids\": [\"609048fb-8416-463d-9f79-c3671cec197e\", \"5a063c08-b582-4fbc-866c-bf71fd49f639\"]}",
+        "NodeID": "port+losa-data-sw:TwentyFiveGigE0/0/0/8/0",
+        "Class": "ConnectionPoint",
+        "Labels": "{\"local_name\": \"TwentyFiveGigE0/0/0/8/0\", \"mac\": \"c0:8b:2a:8a:ca:14\"}",
+        "id": "481",
+        "Capacities": "{\"bw\": 25}",
+        "StitchNode": "false",
+        "Name": "TwentyFiveGigE0/0/0/8/0"
+      },
+      "elementId": "9573"
+    }
+  },
+  {
+    "cp": {
+      "identity": 9548,
+      "labels": [
+        "ConnectionPoint",
+        "GraphNode"
+      ],
+      "properties": {
+        "LabelDelegations": "{\"609048fb-8416-463d-9f79-c3671cec197e\": {\"pool_id\": \"_\", \"labels\": {\"mac\": \"c0:8b:2a:8a:ca:20\", \"ipv4\": \"10.137.0.153\", \"ipv6\": \"2602:fcfb:12:1024::19\", \"local_name\": \"HundredGigE0/0/0/15.3370\"}}}",
+        "Type": "TrunkPort",
+        "GraphID": "40df44eb-1e69-409b-9f46-c3a975338659",
+        "CapacityDelegations": "{\"609048fb-8416-463d-9f79-c3671cec197e\": {\"pool_id\": \"_\", \"capacities\": {\"bw\": 100}}}",
+        "StructuralInfo": "{\"adm_graph_ids\": [\"609048fb-8416-463d-9f79-c3671cec197e\"]}",
+        "NodeID": "port+losa-data-sw:HundredGigE0/0/0/15.3370",
+        "Class": "ConnectionPoint",
+        "Labels": "{\"ipv4\": \"10.137.0.153\", \"ipv6\": \"2602:fcfb:12:1024::19\", \"local_name\": \"HundredGigE0/0/0/15.3370\", \"mac\": \"c0:8b:2a:8a:ca:20\"}",
+        "id": "467",
+        "Capacities": "{\"bw\": 100}",
+        "StitchNode": "false",
+        "Name": "HundredGigE0/0/0/15.3370"
+      },
+      "elementId": "9548"
+    }
+  },
+  {
+    "cp": {
+      "identity": 9569,
+      "labels": [
+        "ConnectionPoint",
+        "GraphNode"
+      ],
+      "properties": {
+        "LabelDelegations": "{\"609048fb-8416-463d-9f79-c3671cec197e\": {\"pool_id\": \"_\", \"labels\": {\"mac\": \"c0:8b:2a:8a:ca:12\", \"local_name\": \"HundredGigE0/0/0/5\"}}}",
+        "Type": "TrunkPort",
+        "GraphID": "40df44eb-1e69-409b-9f46-c3a975338659",
+        "CapacityDelegations": "{\"609048fb-8416-463d-9f79-c3671cec197e\": {\"pool_id\": \"_\", \"capacities\": {\"bw\": 100}}}",
+        "StructuralInfo": "{\"adm_graph_ids\": [\"609048fb-8416-463d-9f79-c3671cec197e\", \"5a063c08-b582-4fbc-866c-bf71fd49f639\"]}",
+        "NodeID": "port+losa-data-sw:HundredGigE0/0/0/5",
+        "Class": "ConnectionPoint",
+        "Labels": "{\"local_name\": \"HundredGigE0/0/0/5\", \"mac\": \"c0:8b:2a:8a:ca:12\"}",
+        "id": "477",
+        "Capacities": "{\"bw\": 100}",
+        "StitchNode": "false",
+        "Name": "HundredGigE0/0/0/5"
+      },
+      "elementId": "9569"
+    }
+  },
+  {
+    "cp": {
+      "identity": 9576,
+      "labels": [
+        "ConnectionPoint",
+        "GraphNode"
+      ],
+      "properties": {
+        "LabelDelegations": "{\"609048fb-8416-463d-9f79-c3671cec197e\": {\"pool_id\": \"_\", \"labels\": {\"mac\": \"c0:8b:2a:8a:ca:15\", \"local_name\": \"TwentyFiveGigE0/0/0/8/1\"}}}",
+        "Type": "TrunkPort",
+        "GraphID": "40df44eb-1e69-409b-9f46-c3a975338659",
+        "CapacityDelegations": "{\"609048fb-8416-463d-9f79-c3671cec197e\": {\"pool_id\": \"_\", \"capacities\": {\"bw\": 25}}}",
+        "StructuralInfo": "{\"adm_graph_ids\": [\"609048fb-8416-463d-9f79-c3671cec197e\", \"5a063c08-b582-4fbc-866c-bf71fd49f639\"]}",
+        "NodeID": "port+losa-data-sw:TwentyFiveGigE0/0/0/8/1",
+        "Class": "ConnectionPoint",
+        "Labels": "{\"local_name\": \"TwentyFiveGigE0/0/0/8/1\", \"mac\": \"c0:8b:2a:8a:ca:15\"}",
+        "id": "482",
+        "Capacities": "{\"bw\": 25}",
+        "StitchNode": "false",
+        "Name": "TwentyFiveGigE0/0/0/8/1"
+      },
+      "elementId": "9576"
+    }
+  },
+  {
+    "cp": {
+      "identity": 9555,
+      "labels": [
+        "ConnectionPoint",
+        "GraphNode"
+      ],
+      "properties": {
+        "LabelDelegations": "{\"609048fb-8416-463d-9f79-c3671cec197e\": {\"pool_id\": \"_\", \"labels\": {\"mac\": \"c0:8b:2a:8a:ca:2a\", \"ipv4\": \"10.134.128.134\", \"ipv6\": \"2602:fcfb:d:1024::6\", \"local_name\": \"HundredGigE0/0/0/17.3000\"}}}",
+        "Type": "TrunkPort",
+        "GraphID": "40df44eb-1e69-409b-9f46-c3a975338659",
+        "CapacityDelegations": "{\"609048fb-8416-463d-9f79-c3671cec197e\": {\"pool_id\": \"_\", \"capacities\": {\"bw\": 100}}}",
+        "StructuralInfo": "{\"adm_graph_ids\": [\"609048fb-8416-463d-9f79-c3671cec197e\"]}",
+        "NodeID": "port+losa-data-sw:HundredGigE0/0/0/17.3000",
+        "Class": "ConnectionPoint",
+        "Labels": "{\"ipv4\": \"10.134.128.134\", \"ipv6\": \"2602:fcfb:d:1024::6\", \"local_name\": \"HundredGigE0/0/0/17.3000\", \"mac\": \"c0:8b:2a:8a:ca:2a\"}",
+        "id": "471",
+        "Capacities": "{\"bw\": 100}",
+        "StitchNode": "false",
+        "Name": "HundredGigE0/0/0/17.3000"
+      },
+      "elementId": "9555"
+    }
+  },
+  {
+    "cp": {
+      "identity": 9347,
+      "labels": [
+        "ConnectionPoint",
+        "GraphNode"
+      ],
+      "properties": {
+        "LabelDelegations": "{\"609048fb-8416-463d-9f79-c3671cec197e\": {\"pool_id\": \"_\", \"labels\": {\"mac\": \"c0:8b:2a:8a:cb:04\", \"ipv4\": \"10.134.0.146\", \"ipv6\": \"2602:fcfb:c:1024::12\", \"local_name\": \"Bundle-Ether100.3000\"}}}",
+        "Type": "TrunkPort",
+        "GraphID": "40df44eb-1e69-409b-9f46-c3a975338659",
+        "CapacityDelegations": "{\"609048fb-8416-463d-9f79-c3671cec197e\": {\"pool_id\": \"_\", \"capacities\": {\"bw\": 1200}}}",
+        "StructuralInfo": "{\"adm_graph_ids\": [\"609048fb-8416-463d-9f79-c3671cec197e\"]}",
+        "NodeID": "port+losa-data-sw:Bundle-Ether100.3000",
+        "Class": "ConnectionPoint",
+        "Labels": "{\"ipv4\": \"10.134.0.146\", \"ipv6\": \"2602:fcfb:c:1024::12\", \"local_name\": \"Bundle-Ether100.3000\", \"mac\": \"c0:8b:2a:8a:cb:04\"}",
+        "id": "438",
+        "Capacities": "{\"bw\": 1200}",
+        "StitchNode": "false",
+        "Name": "Bundle-Ether100.3000"
+      },
+      "elementId": "9347"
+    }
+  },
+  {
+    "cp": {
+      "identity": 9552,
+      "labels": [
+        "ConnectionPoint",
+        "GraphNode"
+      ],
+      "properties": {
+        "LabelDelegations": "{\"609048fb-8416-463d-9f79-c3671cec197e\": {\"pool_id\": \"_\", \"labels\": {\"mac\": \"c0:8b:2a:8a:ca:24\", \"local_name\": \"HundredGigE0/0/0/16\"}}}",
+        "Type": "TrunkPort",
+        "GraphID": "40df44eb-1e69-409b-9f46-c3a975338659",
+        "CapacityDelegations": "{\"609048fb-8416-463d-9f79-c3671cec197e\": {\"pool_id\": \"_\", \"capacities\": {\"bw\": 100}}}",
+        "StructuralInfo": "{\"adm_graph_ids\": [\"609048fb-8416-463d-9f79-c3671cec197e\", \"5a063c08-b582-4fbc-866c-bf71fd49f639\"]}",
+        "NodeID": "port+losa-data-sw:HundredGigE0/0/0/16",
+        "Class": "ConnectionPoint",
+        "Labels": "{\"local_name\": \"HundredGigE0/0/0/16\", \"mac\": \"c0:8b:2a:8a:ca:24\"}",
+        "id": "469",
+        "Capacities": "{\"bw\": 100}",
+        "StitchNode": "false",
+        "Name": "HundredGigE0/0/0/16"
+      },
+      "elementId": "9552"
+    }
+  },
+  {
+    "cp": {
+      "identity": 9571,
+      "labels": [
+        "ConnectionPoint",
+        "GraphNode"
+      ],
+      "properties": {
+        "LabelDelegations": "{\"609048fb-8416-463d-9f79-c3671cec197e\": {\"pool_id\": \"_\", \"labels\": {\"mac\": \"c0:8b:2a:8a:ca:10\", \"local_name\": \"HundredGigE0/0/0/7\"}}}",
+        "Type": "TrunkPort",
+        "GraphID": "40df44eb-1e69-409b-9f46-c3a975338659",
+        "CapacityDelegations": "{\"609048fb-8416-463d-9f79-c3671cec197e\": {\"pool_id\": \"_\", \"capacities\": {\"bw\": 100}}}",
+        "StructuralInfo": "{\"adm_graph_ids\": [\"609048fb-8416-463d-9f79-c3671cec197e\", \"5a063c08-b582-4fbc-866c-bf71fd49f639\"]}",
+        "NodeID": "port+losa-data-sw:HundredGigE0/0/0/7",
+        "Class": "ConnectionPoint",
+        "Labels": "{\"local_name\": \"HundredGigE0/0/0/7\", \"mac\": \"c0:8b:2a:8a:ca:10\"}",
+        "id": "479",
+        "Capacities": "{\"bw\": 100}",
+        "StitchNode": "false",
+        "Name": "HundredGigE0/0/0/7"
+      },
+      "elementId": "9571"
+    }
+  },
+  {
+    "cp": {
+      "identity": 9457,
+      "labels": [
+        "ConnectionPoint",
+        "GraphNode"
+      ],
+      "properties": {
+        "LabelDelegations": "{\"609048fb-8416-463d-9f79-c3671cec197e\": {\"pool_id\": \"_\", \"labels\": {\"mac\": \"c0:8b:2a:8a:ca:04\", \"local_name\": \"HundredGigE0/0/0/0\"}}}",
+        "Type": "TrunkPort",
+        "GraphID": "40df44eb-1e69-409b-9f46-c3a975338659",
+        "CapacityDelegations": "{\"609048fb-8416-463d-9f79-c3671cec197e\": {\"pool_id\": \"_\", \"capacities\": {\"bw\": 100}}}",
+        "StructuralInfo": "{\"adm_graph_ids\": [\"609048fb-8416-463d-9f79-c3671cec197e\", \"5a063c08-b582-4fbc-866c-bf71fd49f639\"]}",
+        "NodeID": "port+losa-data-sw:HundredGigE0/0/0/0",
+        "Class": "ConnectionPoint",
+        "Labels": "{\"local_name\": \"HundredGigE0/0/0/0\", \"mac\": \"c0:8b:2a:8a:ca:04\"}",
+        "id": "454",
+        "Capacities": "{\"bw\": 100}",
+        "StitchNode": "false",
+        "Name": "HundredGigE0/0/0/0"
+      },
+      "elementId": "9457"
+    }
+  },
+  {
+    "cp": {
+      "identity": 9550,
+      "labels": [
+        "ConnectionPoint",
+        "GraphNode"
+      ],
+      "properties": {
+        "LabelDelegations": "{\"609048fb-8416-463d-9f79-c3671cec197e\": {\"pool_id\": \"_\", \"labels\": {\"mac\": \"c0:8b:2a:8a:ca:20\", \"ipv4\": \"10.137.0.157\", \"ipv6\": \"2602:fcfb:12:1024::1d\", \"local_name\": \"HundredGigE0/0/0/15.3390\"}}}",
+        "Type": "TrunkPort",
+        "GraphID": "40df44eb-1e69-409b-9f46-c3a975338659",
+        "CapacityDelegations": "{\"609048fb-8416-463d-9f79-c3671cec197e\": {\"pool_id\": \"_\", \"capacities\": {\"bw\": 100}}}",
+        "StructuralInfo": "{\"adm_graph_ids\": [\"609048fb-8416-463d-9f79-c3671cec197e\"]}",
+        "NodeID": "port+losa-data-sw:HundredGigE0/0/0/15.3390",
+        "Class": "ConnectionPoint",
+        "Labels": "{\"ipv4\": \"10.137.0.157\", \"ipv6\": \"2602:fcfb:12:1024::1d\", \"local_name\": \"HundredGigE0/0/0/15.3390\", \"mac\": \"c0:8b:2a:8a:ca:20\"}",
+        "id": "468",
+        "Capacities": "{\"bw\": 100}",
+        "StitchNode": "false",
+        "Name": "HundredGigE0/0/0/15.3390"
+      },
+      "elementId": "9550"
+    }
+  },
+  {
+    "cp": {
+      "identity": 9568,
+      "labels": [
+        "ConnectionPoint",
+        "GraphNode"
+      ],
+      "properties": {
+        "LabelDelegations": "{\"609048fb-8416-463d-9f79-c3671cec197e\": {\"pool_id\": \"_\", \"labels\": {\"mac\": \"c0:8b:2a:8a:ca:0c\", \"local_name\": \"HundredGigE0/0/0/4\"}}}",
+        "Type": "TrunkPort",
+        "GraphID": "40df44eb-1e69-409b-9f46-c3a975338659",
+        "CapacityDelegations": "{\"609048fb-8416-463d-9f79-c3671cec197e\": {\"pool_id\": \"_\", \"capacities\": {\"bw\": 100}}}",
+        "StructuralInfo": "{\"adm_graph_ids\": [\"609048fb-8416-463d-9f79-c3671cec197e\", \"5a063c08-b582-4fbc-866c-bf71fd49f639\"]}",
+        "NodeID": "port+losa-data-sw:HundredGigE0/0/0/4",
+        "Class": "ConnectionPoint",
+        "Labels": "{\"local_name\": \"HundredGigE0/0/0/4\", \"mac\": \"c0:8b:2a:8a:ca:0c\"}",
+        "id": "476",
+        "Capacities": "{\"bw\": 100}",
+        "StitchNode": "false",
+        "Name": "HundredGigE0/0/0/4"
+      },
+      "elementId": "9568"
+    }
+  }
+]
