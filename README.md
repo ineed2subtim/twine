@@ -1,4 +1,4 @@
-# TWINE
+# TWINE (Anonymized repo)
 
 Repository containing the Python scripts and support files needed to conduct testbed profiling using port mirroring primitive on the FABRIC testbed.   
 
@@ -8,7 +8,7 @@ If your local system operating system is Linux, run the steps mentioned here: [L
 
 If your local system operating system is MACos, run the steps mentioned here: [MACos_setup](MACos_setup.md) <br>
 
-## Setup environment for Fabric experiments
+## Setup environment for FABRIC experiments
 
 Download the following files from your FABRIC Jupyter environment to your local system in a directory /path/to/file: <br>
 ```
@@ -41,7 +41,7 @@ Check if the script ran successfully <br>
 ```
 $ printenv | grep FABRIC		# Should produce an output
 ```
-## Create virtual environment for Fabric codebase
+## Create virtual environment for FABRIC codebase
 
 ```
 bash-3.2$ pip3 install virtualenv virtualenvwrapper

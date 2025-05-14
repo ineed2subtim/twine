@@ -81,7 +81,7 @@ Therefore, the total time for this example would be ~ (1200 * 1.15) + 300 = 1680
 ## Run the script multi_site_twine.sh
 The configurable parameters mentioned in Section 'Configurable parameters' can be modified by opening the script 'multi_site_twine.sh' and altering the values.
 
-The Fabric sites of interest can also specified in this script file. 
+The FABRIC sites of interest can also specified in this script file. 
 ```
 e.g.
 sites(INDI MAX) --> implies that Twine will monitor the network dataplane of site INDI and site MAX

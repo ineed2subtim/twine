@@ -56,7 +56,7 @@ Below we explain in detail, the information seen in the log file 'startup_log.tx
  
 ```
 
-The log will list the active ports on the SITE, obtained from the Fabric information model(FIM) <br>
+The log will list the active ports on the SITE, obtained from the FABRIC information model(FIM) <br>
 ```
 Opening file json_records/UTAH_records.json to get port information
 HundredGigE0/0/0/5
